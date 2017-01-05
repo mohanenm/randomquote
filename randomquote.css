@@ -1,0 +1,34 @@
+
+
+body{
+
+background: #ffd89b; 
+background: -webkit-linear-gradient(to left, #ffd89b , #19547b); 
+background: linear-gradient(to left, #ffd89b , #19547b); 
+        
+}
+.container-fluid{
+	max-width:80%;
+}
+
+.btn{
+margin-right: 20%;
+margin-left: 20%;
+
+}
+
+.main {
+
+}
+ 
+.quote-text {
+	margin-top:20%;
+font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+
+
+.by{
+
+	margin-top:20%;
+}
